@@ -6,7 +6,7 @@ from tensorflow.keras.models import load_model
 st.set_page_config(page_title="Surface Crack Detection", page_icon="🔎", layout="wide")
 
 IMAGE_SIZE = 128
-MODEL_PATH = "Final_Marvellous_Crack_Detection_Model.keras"
+MODEL_PATH = "Final_Crack_Detection_Model.keras"
 
 st.title("🔎 Industrial Surface Crack Detection")
 st.write("Upload a surface image to check whether the CNN model classifies it as **Crack Detected** or **No Crack**.")
