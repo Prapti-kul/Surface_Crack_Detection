@@ -1,6 +1,4 @@
 streamlit
-PyPDF2
-faiss-cpu
 numpy
-requests
-sentence-transformers
+Pillow
+tensorflow
